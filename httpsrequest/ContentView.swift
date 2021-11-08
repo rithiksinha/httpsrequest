@@ -59,7 +59,7 @@ struct ContentView: View {
 
                     .frame(width: UIScreen.main.bounds.width-20, height: 50, alignment: .center)
 
-                    .background(Color.blue)
+                    .background(Color.green)
 
                     .foregroundColor(Color.white)
 
